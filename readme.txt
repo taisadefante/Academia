@@ -1,18 +1,48 @@
-Note
-====
+# ✨ Academia Fitness - Site Oficial ✨
 
-Responsive, Bootstrap Mobile First Web Template 
-Author URI: http://webthemez.com/
+## 🏢 Sobre o Projeto
+Este projeto é um site moderno e responsivo para uma academia, apresentando informações sobre planos, professores, treinos e contato. Desenvolvido com **HTML, CSS e Bootstrap**, oferece uma experiência dinâmica e intuitiva para os usuários.
 
+## 🌟 Funcionalidades
+- **Homepage:** Apresentação da academia
+- **Planos:** Diferentes opções de planos de assinatura
+- **Professores:** Perfis dos instrutores
+- **Treinos:** Informações sobre exercícios
+- **Contato:** Formulário e informações para atendimento
 
-Fitness zone theme is dedicated to create a gym, fitness, trainers or any sport related website. This theme is a one page website includes carousal, photo gallery and pricing plans etc. The layout is responsive and build upon latest bootstrap and html5. This template looks great on a desktop and mobile resolution.
+## 🛠 Tecnologias Utilizadas
+- **HTML5**
+- **CSS3**
+- **Bootstrap**
+- **JavaScript** *(opcional, caso tenha interatividade)*
 
+## 📅 Estrutura do Projeto
+```
+academia-site/
+├── index.html
+├── css/
+│   ├── style.css
+├── js/
+│   ├── script.js
+├── images/
+│   ├── (imagens do site)
+├── README.md
+```
 
-Credits
-=======
-Framework  http://getbootstrap.com
-Images	(http://unsplash.com - CC0 licensed)
-Icons	Font Awesome (http://fortawesome.github.com/Font-Awesome/)
-Other	html5shiv.js (@afarkas @jdalton @jon_neal @rem)
+## 🔗 Como Rodar o Projeto
+1. Clone o repositório:
+   ```sh
+   git clone https://github.com/seu-usuario/academia-site.git
+   ```
+2. Abra o arquivo `index.html` no navegador.
 
-Note: All the images used in this template is for demo use only, we are not responsible for any copyrights issue.	
+## 📢 Contribuições
+Sinta-se à vontade para abrir **issues** e enviar **pull requests**. Toda contribuição é bem-vinda!
+
+## ✨ Demonstração
+https://academia-swart.vercel.app/
+
+## 👤 Autor
+**Taís Defante** - Desenvolvedor Web
+
+Feito com ❤️ para promover saúde e bem-estar! 💪💀
